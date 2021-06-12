@@ -1,4 +1,5 @@
 # Knapsack Pattern Problems
+# Author: Jitesh Bagul
 """
 Subset-Sum Problem :
 To detect the knapsack problem you need to check for two things -
