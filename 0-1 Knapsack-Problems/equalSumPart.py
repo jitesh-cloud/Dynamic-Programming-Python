@@ -1,4 +1,5 @@
 # Knapsack Pattern Problems:
+# Author: Jitesh Bagul
 """
 Equal-Sum-Partition Problem :
 This problem asks is it possible to achieve the equal sum for the two subsets of the given array.
